@@ -1,0 +1,9 @@
+Добавить меню на сайт Laravel. (Главная и Контакты)
+
+https://getbootstrap.com/docs/5.3/components/navbar/
+Поиск не удалять
+
+REST API
+CSRF
+
+https://laravel.com/docs/10.x/blade
